@@ -1,0 +1,71 @@
+
+nav ul a {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.col
+
+.parallax-container {
+  min-height: 530px;
+  line-height: 0;
+  height: auto;
+  color: white;
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+.container h4 {
+  text-align: center;
+
+}
+.card-action h6 {
+  text-align: center;
+}
+
+.section h3 {
+  text-align: center;
+}
+
+.card .card-image img {
+  height: 310px;
+  width: 300px;
+}
+
+.card {
+  width: 300px;
+}
